@@ -1,0 +1,9 @@
+__pycache__
+*.npy
+*.h5
+wandb/
+logs/
+checkpoints/
+ckpts/
+config*.json
+*.sh
